@@ -1,0 +1,133 @@
+.first {
+    background-image: url("smiling children.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    color: black;
+    background-color: white;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+.Tagline {
+    font-family: 'Rowdies', cursive;
+    background-color: #f7fbe1;
+    color: #222831;
+    font-size: 30px;
+}
+
+.bu {
+    margin: 5% 3% 5% 0
+}
+
+.roz {
+    color: #e8505b
+}
+
+.support {
+    font-family: 'Roboto', sans-serif;
+    background-color: #e1ffc2;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white
+}
+
+a :active {
+    text-decoration: underline;
+    color: white
+}
+
+.hero {
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    color: #0f4c75;
+    font-size: 60px;
+}
+
+.white {
+    background-color: white;
+}
+
+.donate {
+    text-align: center;
+    color: white;
+}
+
+#Vision {
+    background-color: #cffffe;
+}
+
+h5 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Rowdies', cursive;
+    font-size: 50px;
+}
+
+ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+
+.vish {
+    background-color: #b2ebf2
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+
+.contact {
+    text-align: center;
+    background-color: #cffffe;
+}
+
+.thanks {
+    background-color: #76ead7;
+}
+
+.thankyou {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    color: black;
+    background-color: white;
+}
